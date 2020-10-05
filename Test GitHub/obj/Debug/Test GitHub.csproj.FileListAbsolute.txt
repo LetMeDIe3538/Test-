@@ -1,0 +1,15 @@
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\bin\Debug\Test GitHub.exe.config
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\bin\Debug\Test GitHub.exe
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\bin\Debug\Test GitHub.pdb
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\App.g.cs
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub_MarkupCompile.cache
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub_MarkupCompile.lref
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\MainWindow.baml
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub.g.resources
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test_GitHub.Properties.Resources.resources
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub.exe
+C:\Users\Алексей\source\repos\Test GitHub\Test GitHub\obj\Debug\Test GitHub.pdb
